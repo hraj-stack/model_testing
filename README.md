@@ -55,7 +55,7 @@ python app.py
 Making Predictions
 curl -X POST http://localhost:5000/predict \
   -H "Content-Type: application/json" \
-  -d '{"input": [20, 50000,]}'
+  -d '{"input": [20, 50000]}'
 
 
 response
