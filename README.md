@@ -1,5 +1,4 @@
 # model_testing
-# model_testing
 
 A Flask-based machine learning application that uses a Random Forest classifier to predict customer purchase behavior.
 
